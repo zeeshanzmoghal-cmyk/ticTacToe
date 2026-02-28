@@ -17,7 +17,9 @@ Requirements:
 
   **OR**
 
-  Download provided jar and run it.
+  Download provided jar via said link:
+    https://drive.google.com/file/d/18TvkwGGyQNBPqc4c_rjGhiswQWClc7cm/view?usp=drive_link
+   and enjoy!
 
   </u>*ALL SOURCE CODE USES MUST ADHERE TO THE TERMS OF THE LISCENSE*</u>
    
