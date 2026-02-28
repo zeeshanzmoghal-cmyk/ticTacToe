@@ -1,6 +1,6 @@
 </u>**Project/App Name: TiccyToeTac**</u>
 
-This is a MYSql integrated tic tac toe game made using Javax.Swing.*; with account creation/deletion, account editing(settings) xp point challenges, practice mode, & 3 levels of bot difficulty.
+This is a MYSql integrated tic tac toe game made using Javax.Swing.*;. Application includes account creation/deletion, account editing(settings) XP point challenges, practice mode, & 3 levels of bot difficulty.
 
 **How to run game:**
 
